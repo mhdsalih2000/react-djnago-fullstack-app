@@ -19,7 +19,7 @@ This is a simple note-taking application built using React for the frontend and 
 1. Clone the repository:
 
     ```
-    git clone <repository_url>
+    git clone 
     ```
 
 2. Navigate to the project directory:
@@ -91,4 +91,15 @@ This is a simple note-taking application built using React for the frontend and 
 - djangorestframework-simplejwt
 
 ## Folder Structure
+react-django-note-app/
+│
+├── frontend/ # Frontend React app
+│ ├── public/
+│ ├── src/
+│ └── package.json
+│
+└── backend/ # Backend Django app
+├── Backend(project flder)/
+├── API(app)/
+└── manage.py
 
