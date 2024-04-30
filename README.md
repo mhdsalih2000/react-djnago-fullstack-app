@@ -94,12 +94,19 @@ This is a simple note-taking application built using React for the frontend and 
 react-django-note-app/
 │
 ├── frontend/ # Frontend React app
+
 │ ├── public/
+
 │ ├── src/
+
 │ └── package.json
+
 │
 └── backend/ # Backend Django app
+
 ├── Backend(project flder)/
+
 ├── API(app)/
+
 └── manage.py
 
