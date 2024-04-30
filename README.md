@@ -19,7 +19,7 @@ This is a simple note-taking application built using React for the frontend and 
 1. Clone the repository:
 
     ```
-    git clone 
+    git clone https://github.com/mhdsalih2000/react-djnago-fullstack-app.git
     ```
 
 2. Navigate to the project directory:
